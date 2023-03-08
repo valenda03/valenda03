@@ -1,16 +1,16 @@
-### all about gueh👋
+### Hi All this my introduce my self 👋
 
-<!--
-**valenda03/valenda03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi semua, namaku Valenda. Aku asal kota Palembang tepatnya di negara Indonesia.
+aku saat ini menempuh studi di perguruan tinggi Universitas Multi Data Palembang.
 
-Here are some ideas to get you started:
+## Education
+aku pernah bersekolah dasar di SDN 61 Palembang
+lalu melanjutkan masa SMP ku di SMPN 6 Palembang 
+kemudian aku melanjutkan SMAN 15 Palembang dan sekarang aku berada di jenjang perkuliahan yang kulakukan di Universitas Multi Data Palembang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+[Instagram] : https://www.instagram.com/valendaa_03
+
+## Fun fact: 
+aku seorang pendengar yang baik terutama bagi sahabatku.
